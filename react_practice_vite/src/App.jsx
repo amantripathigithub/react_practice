@@ -1,8 +1,14 @@
+import First from "./First"
+
 function App() {
 
 
   return (
-    <h1>heyy vite</h1>
+    
+    <>
+    <First></First>
+    <h2>hello h2.</h2>
+    </>
      
   )
 }
